@@ -10,7 +10,7 @@ Tigers.csv - Sample input dataset that tracks 8 tigers on a daily basis. The fil
 
 finalproject3.kml - Sample Output for Tigers.csv. Can be displayed in Google Earth. It shows 3D Lines of each tiger. Elevation represents time, with elevation increases with increased time.
 
-Final Group Report - Spacetime group's Final Report explaining the program in detail.
+Final Group Report - Spacetime group's Final Report explaining the program, with details on the different functions used and help with troubleshootings.
 
 
 
