@@ -8,7 +8,7 @@ Spacetime_Code.py - The program code used to create the 3d visualization. The pr
 
 Tigers.csv - Sample input dataset that tracks 8 tigers on a daily basis.
 
-finalproject3.kml - Sample Output for Tigers.csv. Can be displayed in Google Earth. It shows each tiger's track as a 3D Line.
+finalproject3.kml - Sample Output for Tigers.csv. Can be displayed in Google Earth. It shows 3D Lines of each tiger. Elevation represents time, with elevation increases with longer time.
 
 
 
